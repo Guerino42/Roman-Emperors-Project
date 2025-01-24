@@ -1,7 +1,6 @@
 # Roman-Emperors-Project
 
 # Introduzione al Progetto:
-Analisi dei Dati sugli Imperatori Romani
 Questo progetto mira a esplorare e analizzare i dati relativi agli imperatori romani nel periodo compreso tra il 27 a.C. e il 476 d.C., con l'obiettivo di estrarre insight sulla loro ascesa al potere e sulle circostanze delle loro morti. 
 
 **Obiettivi del Progetto**
