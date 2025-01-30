@@ -5,11 +5,11 @@ Questo progetto mira a esplorare e analizzare i dati relativi agli imperatori ro
 
 **Obiettivi del Progetto**
 1.	Analizzare le cause di morte degli imperatori:
-o	Identificare le cause di morte più comuni e le correlazioni con il metodo di ascesa al potere.
+	Identificare le cause di morte più comuni e le correlazioni con il metodo di ascesa al potere.
 2.	Esplorare i metodi di ascesa al potere:
-o	Analizzare la distribuzione dei metodi di successione (es. diritto di nascita, usurpazioni, nomine).
+	Analizzare la distribuzione dei metodi di successione (es. diritto di nascita, usurpazioni, nomine).
 3.	Creare visualizzazioni:
-o	Utilizzare Power BI per produrre grafici e dashboard che riassumano i risultati in modo intuitivo e informativo.
+	Utilizzare Power BI per produrre grafici e dashboard che riassumano i risultati in modo intuitivo e informativo.
 
 **Tecnologie Utilizzate**
 - Excel: Pulizia e preparazione iniziale dei dati.
